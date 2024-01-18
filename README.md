@@ -15,6 +15,10 @@ The Weather App is a React-based web application that allows users to get real-t
 - [OpenWeatherMap API](https://openweathermap.org/api) - Weather data API.
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework.
 
+##
+
+![Screenshot](/public/Screenshot.png)
+
 ## Getting Started
 
 To run the Weather App locally, follow these steps:
